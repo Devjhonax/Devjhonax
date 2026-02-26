@@ -91,8 +91,12 @@ Olá eu sou o Jhonathas, tenho 18 anos e sou da cidade de Camamu na Bahia. Atual
 # Projetos em destaque
 
 **`API de Presentes`**
+
 Usuários podem se conectar entre si e criar uma lista de presentes/itens que gostariam de ganhar. O usuário vinculado consegue visualizar esses itens e favoritar os presentes de forma privada, sem que quem criou a lista saiba — evitando presentes repetidos e mantendo o fator surpresa.
 
+**`To Do List API`**
+
+A aplicação permite: Criar tarefas, Atualizar status (não iniciado, em andamento e concluído), Filtrar tarefas por status, Excluir tarefas, Consumo de API REST no frontend.
 
 ### 📊 Estatísticas
 

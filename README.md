@@ -86,6 +86,8 @@ Olá eu sou o Jhonathas, tenho 18 anos e sou da cidade de Camamu na Bahia. Atual
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
